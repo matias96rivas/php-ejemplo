@@ -11,5 +11,6 @@ and open the template in the editor.
     </head>
     <body>
         <h1>hla</h1>
+        <h2>chao</h2>
     </body>
 </html>
